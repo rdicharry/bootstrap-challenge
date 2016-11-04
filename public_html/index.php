@@ -41,28 +41,65 @@
 			</header>
 			<main>
 				<div class="container-fluid">
-
+					<!-- Greeting section -->
 					<div class="jumbotron">
 						<h1>Greetings!</h1>
 						<div>Some smaller text goes here.</div>
 
 					</div>
 
-
+					<!-- first section - image + text -->
 					<div class="row">
-						<div class="col-s-3">
-							<img src="img/frog.JPG" alt="frog" width="200px">
+						<div class="col-xs-12 col-md-3">
+							<img  class="img-responsive center-block"  src="img/frog.JPG" alt="frog" width="300px"><!-- TODO look up bootstrap image utils -->
 						</div>
-						<div class="col-s-9">
+						<div class="col-xs-12 col-md-9">
 				I'm getting hungry eat from dog's food but loves cheeseburgers for human give me attention meow. Jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry just for fun for wake up human for food at 4am for rub face on everything, yet meow. Stares at human while pushing stuff off a table.
 						</div>
 					</div>
+
+					<!-- second section: 3 images and associated text -->
+					<div class="row">
+						<div class="col-xs-4" >
+							<div class="thumbnail">
+
+									<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+
+								<div class="caption">
+									<h2>Heading</h2>
+									<p> Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-4" >
+							<div class="thumbnail">
+
+								<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+
+								<div class="caption">
+									<h2>Heading</h2>
+									<p> Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-4" >
+							<div class="thumbnail">
+
+								<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+
+								<div class="caption">
+									<h2>Heading</h2>
+									<p> Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry </p>
+								</div>
+							</div>
+						</div>
+
 				</div> <!-- close container-fluid (main) -->
 			</main>
 
 		</div> <!-- close sfooter content -->
 			<footer>
-				<div class="container">
+				<div class="container text-center">
 					&#169; Graphene 2016
 				</div>
 			</footer>
