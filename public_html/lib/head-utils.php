@@ -24,7 +24,7 @@ this helps avoid some "IE Compatibility Mode" bugs -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 <!-- my styles -->
-<!-- <link rel="stylesheet" src="css/style.css" type="text/css"> -->
+<link rel="stylesheet" href="css/style.css" type="text/css">
 
 <!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
