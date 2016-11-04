@@ -5,6 +5,12 @@
 
 }
 
+.thumbnail{
+	/*border-color: #fffff0;*/
+	border-style: none;
+	box-shadow: none;
+}
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/

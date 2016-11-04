@@ -43,7 +43,7 @@
 				<div class="container">
 					<!-- Greeting section -->
 					<div class="jumbotron">
-						<h1>Greetings!</h1>
+						<h1>OMG Ponies!</h1>
 						<div>Some smaller text goes here.</div>
 
 					</div>
