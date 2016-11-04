@@ -1,4 +1,10 @@
 
+.row.extra-padding {
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/

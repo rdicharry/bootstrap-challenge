@@ -40,7 +40,7 @@
 
 			</header>
 			<main>
-				<div class="container-fluid">
+				<div class="container">
 					<!-- Greeting section -->
 					<div class="jumbotron">
 						<h1>Greetings!</h1>
@@ -49,9 +49,9 @@
 					</div>
 
 					<!-- first section - image + text -->
-					<div class="row">
+					<div class="row extra-padding">
 						<div class="col-xs-12 col-md-3">
-							<img  class="img-responsive center-block"  src="img/frog.JPG" alt="frog" width="300px"><!-- TODO look up bootstrap image utils -->
+							<img  class="img-responsive center-block"  src="https://placekitten.com/250/200" alt="kitten" >
 						</div>
 						<div class="col-xs-12 col-md-9">
 				I'm getting hungry eat from dog's food but loves cheeseburgers for human give me attention meow. Jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry just for fun for wake up human for food at 4am for rub face on everything, yet meow. Stares at human while pushing stuff off a table.
@@ -59,11 +59,11 @@
 					</div>
 
 					<!-- second section: 3 images and associated text -->
-					<div class="row">
-						<div class="col-xs-4" >
+					<div class="row extra-padding">
+						<div class="col-md-3" >
 							<div class="thumbnail">
 
-									<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+									<img class="img-circle img-responsive" src="https://placekitten.com/150/150" alt="cat" >
 
 								<div class="caption">
 									<h2>Heading</h2>
@@ -71,10 +71,10 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-xs-4" >
+						<div class="col-md-3" >
 							<div class="thumbnail">
 
-								<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+								<img class="img-circle img-responsive" src="https://placekitten.com/150/150" alt="cat" >
 
 								<div class="caption">
 									<h2>Heading</h2>
@@ -82,10 +82,10 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-xs-4" >
+						<div class="col-md-3" >
 							<div class="thumbnail">
 
-								<img class="img-circle" class="img-responsive" src="img/frog.JPG" alt="frog" >
+								<img class="img-circle img-responsive" src="https://placekitten.com/150/150" alt="cat" >
 
 								<div class="caption">
 									<h2>Heading</h2>
@@ -93,8 +93,20 @@
 								</div>
 							</div>
 						</div>
+						<div class="col-md-3" >
+							<div class="thumbnail">
 
-				</div> <!-- close container-fluid (main) -->
+								<img class="img-circle img-responsive" src="https://placekitten.com/150/150" alt="cat" >
+
+								<div class="caption">
+									<h2>Heading</h2>
+									<p> Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry </p>
+								</div>
+							</div>
+						</div>
+						</div> <!-- close container for second section -->
+					</div>
+
 			</main>
 
 		</div> <!-- close sfooter content -->
