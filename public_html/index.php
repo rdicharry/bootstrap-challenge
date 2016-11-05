@@ -51,7 +51,7 @@
 					<!-- first section - image + text -->
 					<div class="row extra-padding">
 						<div class="col-xs-12 col-md-3">
-							<img  class="img-responsive center-block"  src="img/shetlandpony.png" alt="pony" >
+							<img  class="img-responsive center-block"  src="img/shetlandpony.png" alt="pony" width="200">
 						</div>
 						<div class="col-xs-12 col-md-9">
 				I'm getting hungry eat from dog's food but loves cheeseburgers for human give me attention meow. Jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry just for fun for wake up human for food at 4am for rub face on everything, yet meow. Stares at human while pushing stuff off a table.
